@@ -1,0 +1,11 @@
+Hexadecimal - 0xFF 
+Decimal - 127 
+Error - 0159 
+Hexadecimal - 0xaBb1 
+Error - 0Xx 
+Octal - 0 
+Octal - 010 
+Error - 09 
+Error - 127A 
+Decimal - 120 
+Decimal - 1231545641321324654213 
